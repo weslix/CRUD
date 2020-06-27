@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4481bab-0cb5-4029-9d35-bf3eb37c1c05" name="Default Changelist" comment="Branch controllerModelDao" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="view" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ProgramaCRUD/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1dKCgGRMz3NMK9ixnsz2NsqWoBn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Wesley/Meus Projetos" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProgramaCRUD.Main" />
+      <module name="ProgramaCRUD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4481bab-0cb5-4029-9d35-bf3eb37c1c05" name="Default Changelist" comment="" />
+      <created>1592164506872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592164506872</updated>
+      <workItem from="1592164509009" duration="5101000" />
+    </task>
+    <task id="LOCAL-00001" summary="Teste!">
+      <created>1592165102589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592165102589</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste!">
+      <created>1592165187893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592165187893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pacotes">
+      <created>1592167411385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592167411386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Branch connection">
+      <created>1592167627078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592167627078</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Branch connection">
+      <created>1592167658233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592167658233</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Branch connection">
+      <created>1592167788309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592167788309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Branch controllerModelDao">
+      <created>1592168752344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592168752344</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste!" />
+    <MESSAGE value="Pacotes" />
+    <MESSAGE value="Branch connection" />
+    <MESSAGE value="Branch controllerModelDao" />
+    <MESSAGE value="Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Branch" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="130" key="#Inspections" timestamp="1592168142803">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="395" y="130" key="#Inspections/0.40.1536.824@0.40.1536.824" timestamp="1592168142803" />
+    <state x="654" y="315" key="#Notifications" timestamp="1592168789956">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="654" y="315" key="#Notifications/0.40.1536.824@0.40.1536.824" timestamp="1592168789956" />
+    <state x="223" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592168399688">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="223" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1592168399688" />
+    <state x="498" y="242" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592164549637">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="498" y="242" key="#com.intellij.ide.util.TreeClassChooserDialog/0.40.1536.824@0.40.1536.824" timestamp="1592164549637" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1592168573023">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1592168573023" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1592168573022">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1592168573022" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1592168573022">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1592168573022" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1592168573023">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1592168573023" />
+    <state x="249" y="40" key="SettingsEditor" timestamp="1592168161631">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="249" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1592168161631" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1592169102484">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1592169102484" />
+    <state x="668" y="336" width="200" height="247" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1592168529072">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="668" y="336" width="200" height="247" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.40.1536.824@0.40.1536.824" timestamp="1592168529072" />
+    <state x="498" y="344" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592167553502">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="498" y="344" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.40.1536.824@0.40.1536.824" timestamp="1592167553502" />
+    <state x="578" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592168062007">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="578" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1536.824@0.40.1536.824" timestamp="1592168062007" />
+  </component>
+</project>

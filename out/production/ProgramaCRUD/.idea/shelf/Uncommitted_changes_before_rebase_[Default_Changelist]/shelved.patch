@@ -1,0 +1,26 @@
+Index: ProgramaCRUD/connection/ConexaoBD.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ProgramaCRUD.connection;\r\n\r\nimport org.jetbrains.annotations.NotNull;\r\n\r\nimport java.sql.Connection;\r\nimport java.sql.DriverManager;\r\nimport java.sql.SQLException;\r\n\r\npublic class ConexaoBD {\r\n    static {\r\n        try {\r\n            Class.forName(\"com.mysql.cj.jdbc.Driver\");\r\n        }\r\n        catch (ClassNotFoundException e){\r\n            throw new RuntimeException(e);\r\n        }\r\n    }\r\n\r\n    public Connection conectar() throws SQLException{\r\n        String servidor = \"localhost\";\r\n        String porta = \"3306\";\r\n        String database = \"cadastro_cliente\";\r\n        String usuario = \"root\";\r\n        String senha = \"123mudou\";\r\n        return DriverManager.getConnection(\"jdbc:mysql://\"+servidor+\":\"+porta+\"/\"+database+\"?useTimezone=true&serverTimezone=UTC\",usuario,senha);\r\n    }\r\n\r\n    public static void desconectar(@NotNull Connection conn) throws SQLException{\r\n        conn.close();\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ProgramaCRUD/connection/ConexaoBD.java	(revision 6ae484d80b6c46b9d1b195f2f994629d6f5c913f)
++++ ProgramaCRUD/connection/ConexaoBD.java	(date 1592167766271)
+@@ -1,7 +1,5 @@
+ package ProgramaCRUD.connection;
+ 
+-import org.jetbrains.annotations.NotNull;
+-
+ import java.sql.Connection;
+ import java.sql.DriverManager;
+ import java.sql.SQLException;
+@@ -25,7 +23,7 @@
+         return DriverManager.getConnection("jdbc:mysql://"+servidor+":"+porta+"/"+database+"?useTimezone=true&serverTimezone=UTC",usuario,senha);
+     }
+ 
+-    public static void desconectar(@NotNull Connection conn) throws SQLException{
++    public static void desconectar(Connection conn) throws SQLException{
+         conn.close();
+     }
+ }
